@@ -20,7 +20,7 @@ class MyThread extends Thread{
 	 Thread.currentThread().join();
 	 System.out.println("End Main");
 	 
-	 //make static thread and then join
+	System.out.println("dfgfdg");
 	 
 	 
  }
